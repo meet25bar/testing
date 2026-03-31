@@ -5,3 +5,7 @@ const db='01-01-1999'
 function mynmae(){
     console.log('my name is' +name1)                       
 }
+
+function newfun(){
+    console.log("Hey i m new")
+}
