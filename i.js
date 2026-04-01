@@ -8,3 +8,7 @@ function mynmae(){
 function isAbove18(){
     return age>=18
 }
+
+function newfe(){
+    console.log("new featue")
+}
