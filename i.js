@@ -17,4 +17,5 @@ function newfe(){
 function newfec(){
     console.log("new featue")
     console.log("new featuec")
+    console.log("new featue d")
 }
