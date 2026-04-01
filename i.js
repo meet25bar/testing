@@ -13,3 +13,8 @@ function newfe(){
     console.log("new featue")
     console.log("new featueb")
 }
+
+function newfec(){
+    console.log("new featue")
+    console.log("new featuec")
+}
