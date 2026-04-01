@@ -1,5 +1,5 @@
 const age=24;
-const name='meet';
+const name='meet barot';
 const db='01-01-1999'
 
 function mynmae(){
