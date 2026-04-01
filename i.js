@@ -11,4 +11,6 @@ function isAbove18(){
 
 function newfe(){
     console.log("new featue")
+    console.log("new featue1")
+\
 }
