@@ -2,7 +2,7 @@ const age=24;
 const name='meet barot';
 const db='01-01-1999'
 
-function mynmae(){
+function myname(){
     console.log('my name is' +name1)                       
 }
 function isAbove18(){
@@ -14,7 +14,7 @@ function newfe(){
     console.log("new featueb")
 }
 
-function newfec(){
+function newfunc(){
     console.log("new featue")
     console.log("new featuec")
     console.log("new featue d")
