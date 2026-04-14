@@ -9,7 +9,7 @@ function isAbove18(){
     return age>=18
 }
 
-function newfe(){
+function newfunc(){
     console.log("new featue")
     console.log("new featueb")
 }
